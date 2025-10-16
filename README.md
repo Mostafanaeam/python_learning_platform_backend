@@ -51,7 +51,7 @@
 2.  **افتح الـTerminal وانسخ المشروع:**
     ```bash
     git clone [رابط المشروع بتاعك على GitHub]
-    cd python_learning_platform
+    cd python_learning_platform_backend
     ```
 3.  **جهز بيئة العمل:**
     ```bash
